@@ -21,7 +21,7 @@ function Avatar(){
 function Intro(){
   return <div>
     <h1>Prahadeep</h1>
-    <p>Full Stack Developer & Machine Learning Engineer</p>
+    <p>Full Stack Developer & Generative AI Engineer</p>
   </div>
 }
 
@@ -29,7 +29,7 @@ function SkillList(){
   return <div className='skill-list'>
     <Skill skill="Java" emoji="💪" color="brown"></Skill>
     <Skill skill="React.js" emoji="💪" color="cyan"></Skill>
-    <Skill skill="Tensorflow" emoji="💪" color="red"></Skill>
+    <Skill skill="Tensorflow" emoji="💪" color="orange"></Skill>
   </div>
 }
 
